@@ -54,7 +54,6 @@ The script will output the following information:
 ### Example Output
 
 ```bash
-plaintext
 Domain Name: example.com
 Registry Expiry Date: 2024-12-31
 IP Address: 93.184.216.34
